@@ -1,0 +1,2 @@
+# bed-pool
+mining pool
